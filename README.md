@@ -43,11 +43,14 @@ We use the catkin tool to build the library.
   $ cd ~/catkin_ws/src
   $ git clone https://github.com/ros/catkin.git 
   $ git clone https://github.com/PRBonn/rangenet_lib.git
-  $ git clone https://github.com/jbehley/glow
+  $ git clone https://github.com/DoggyLiu0116/mambo_glow glow
   $ git clone https://github.com/DoggyLiu0116/mambo_visualization semantic_suma
   $ cd .. && catkin init
   $ catkin deps fetch
   $ catkin build --save-config -i --cmake-args -DCMAKE_BUILD_TYPE=Release -DOPENGL_VERSION=430 -DENABLE_NVIDIA_EXT=YES
 
   ```
+  
+#### Run the demo
 
+To run the demo, you need a pre-trained model, which can be downloaded here, [model](http://www.ipb.uni-bonn.de/html/projects/semantic_suma/darknet53.tar.gz). 
