@@ -4,11 +4,12 @@
 
 ## 硬體設備與環境
 
+Geforce RTX 2080  
 Ubuntu16.04  
 ROS Kinetic  
 CUDA 10  
 Anaconda  
-Geforce RTX 2080  
+python 3.7.3
 
 ---
 ## How to use
