@@ -16,6 +16,11 @@ python 3.7.3
 ---
 
 #### Dependencies
+- catkin
+- Qt5 >= 5.2.1
+- OpenGL >= 4.0
+- libEigen >= 3.2
+- gtsam >= 4.0 (tested with 4.0.0-alpha2)
 
 ##### System dependencies
 
