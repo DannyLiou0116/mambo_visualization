@@ -53,4 +53,4 @@ We use the catkin tool to build the library.
   
 #### Run the demo
 
-To run the demo, you need a pre-trained model, which can be downloaded here, [model](http://www.ipb.uni-bonn.de/html/projects/semantic_suma/darknet53.tar.gz). 
+以下是原本 darknet 的 model, 一開始有從這邊做過實驗, 之後再改成我們研究出較佳的 model 去產生檔案, 雖然在 mambo_visualization 內更正程式, 但由於指向 darknet 的路徑還沒清乾淨, 所以還務必再下載 darknet 的 model 並且解壓縮後放入 rangenet_lib 的資料夾內, [model](http://www.ipb.uni-bonn.de/html/projects/semantic_suma/darknet53.tar.gz). 
