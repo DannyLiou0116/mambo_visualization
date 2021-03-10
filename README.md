@@ -2,15 +2,19 @@
 
 ---
 ## How to use
+---
+
+硬體設備與環境
+===
+Ubuntu16.04  
+ROS Kinetic  
+CUDA 10  
+Anaconda  
+Geforce RTX 2080  
 
 #### Dependencies
 
 ##### System dependencies
-First you need to install the nvidia driver and CUDA.
-
-- CUDA Installation guide: [Link](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html)
-
-- Then you can do the other dependencies:
 
   ```sh
   $ sudo apt-get update 
