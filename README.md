@@ -1,16 +1,17 @@
 # Mambo_Visualization
 
----
-## How to use
----
 
-硬體設備與環境
+## 硬體設備與環境
 ===
 Ubuntu16.04  
 ROS Kinetic  
 CUDA 10  
 Anaconda  
 Geforce RTX 2080  
+
+---
+## How to use
+---
 
 #### Dependencies
 
