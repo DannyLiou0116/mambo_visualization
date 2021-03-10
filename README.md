@@ -2,7 +2,6 @@
 
 
 ## 硬體設備與環境
-===
 
 Ubuntu16.04  
 ROS Kinetic  
