@@ -18,6 +18,7 @@ Geforce RTX 2080
 
 ##### System dependencies
 
+- System packages needed:
   ```sh
   $ sudo apt-get update 
   $ sudo apt-get install -yqq  build-essential python3-dev python3-pip apt-utils git cmake libboost-all-dev libyaml-cpp-dev libopencv-dev
