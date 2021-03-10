@@ -55,6 +55,6 @@ We use the catkin tool to build the library.
 
 1. 下載 darknet [model](http://www.ipb.uni-bonn.de/html/projects/semantic_suma/darknet53.tar.gz), 解壓縮後放入 rangenet_lib 的資料夾內  
 (最一開始是用這個大眾 model 做過實驗, 之後再改成我們研究出較佳的 model 去產生檔案, 雖然在 mambo_visualization 內已經更正我們的程式, 但由於指向 darknet 的路徑還沒清乾淨, 所以還務必再下載 darknet 的 model 並且解壓縮後放入 rangenet_lib 的資料夾內)  
-2. 輸入`cd  ~/catkin_ws/src/semantic_suma/bin`  
-3. 輸入`./visualizer`  
+2. `$ cd  ~/catkin_ws/src/semantic_suma/bin `  
+3. `$ ./visualizer `  
 4. 選取我們從 MamboNet 產生的 .bin 們  
