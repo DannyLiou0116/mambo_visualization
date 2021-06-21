@@ -25,7 +25,7 @@ python 3.7.3
 ##### System dependencies
 
 - System packages needed:
-  ```as
+  ```
   $ sudo apt-get update 
   $ sudo apt-get install -yqq  build-essential python3-dev python3-pip apt-utils git cmake libboost-all-dev libyaml-cpp-dev libopencv-dev
   $ sudo apt-get install build-essential cmake libgtest-dev libeigen3-dev libboost-all-dev qtbase5-dev libglew-dev libqt5libqgtk2 catkin
